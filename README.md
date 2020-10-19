@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-[website]: https://techno-soft.com/
+[website]: https://www.jiankangyouyi.com/
 [twitter]: https://twitter.com/Ubaidshan
 [instagram]: https://www.instagram.com/ubaid4j
 [linkedin]: https://www.linkedin.com/in/ubaid-ur-rehman-5a0118119/
